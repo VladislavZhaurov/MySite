@@ -10,7 +10,7 @@
 ## **Образование**
 1. 11 классов
 2. Среднеспециальное 
-3. [Netolog](https://netology.ru)
+3. [Netology](https://netology.ru)
 
 ## **Контакты**
 * [Вк](https://m.vk.com)
